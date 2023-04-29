@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tarun Kaushik</h1>
-<h3 align="center">A student at National Institute Of Criminology and Forensic Sciences, MHA, New DElhi</h3>
+<h3 align="center">A student at National Institute Of Criminology and Forensic Sciences, MHA, New Delhi</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaushiktarun05&label=Months%20View%20Count&color=0e98b4&style=flat" alt="kaushiktarun05" /> </p>
 
@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **CyberSecurity**
 
-- 👨‍💻 All of my projects are available at [kaushiktarun05@github.io](kaushiktarun05@github.io)
+- 👨‍💻 Portfolio Website [kaushiktarun05.github.io](kaushiktarun05.github.io)
 
-- 💬 Ask me about **Android Development,**
+- 💬 Ask me about **Android Development,.NET Framework**
 
 - 📫 How to reach me **kaushiktarun2003@gmail.com**
 
-- ⚡ **Talk is cheap! Show me some code**
+- ⚡ **Talk is cheap! Show me some code;)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
