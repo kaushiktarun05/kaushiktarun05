@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/mightyrock05" target="blank"><img src="https://img.shields.io/twitter/follow/mightyrock05?logo=twitter&style=for-the-badge" alt="mightyrock05" /></a> </p>
 
-- 🔭 I’m currently working on [FamTrac App](https://github.com/kaushiktarun05/FamTrac)
+- 🔭 I’m currently working on [SecuReQ](https://github.com/kaushiktarun05/SecuReQ)
 
 - 🌱 I’m currently learning **CyberSecurity**
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **kaushiktarun2003@gmail.com**
 
-- ⚡ **Talk is cheap! Show me some code;)**
+- ⚡ **Talk is cheap! Show me code ;)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
